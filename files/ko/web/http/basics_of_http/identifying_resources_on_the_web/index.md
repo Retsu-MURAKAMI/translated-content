@@ -1,21 +1,6 @@
 ---
-title: Identifying resources on the Web
+title: 웹의 리소스 식별하기
 slug: Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web
-tags:
-  - Domain
-  - HTTP
-  - Path
-  - Scheme
-  - Syntax
-  - URI
-  - URL
-  - URL Syntax
-  - Web
-  - fragment
-  - port
-  - query
-  - resources
-translation_of: Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web
 ---
 {{HTTPSidebar}}
 HTTP 요청 대상을 "리소스"라고 하며 리소스의 특성은 더 이상 정의되지 않습니다. 리소스는 문서, 사진 등으로 그 어떤 것이든 될 수 있습니다. 각 리소스는 리소스 식별을 위해 HTTP 전체에서 사용되는 {{Glossary("URI")}}(Uniform Resource Identifier)로 식별됩니다.

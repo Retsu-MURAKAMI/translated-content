@@ -1,7 +1,6 @@
 ---
 title: 캔버스(Canvas) 기본 사용법
 slug: Web/API/Canvas_API/Tutorial/Basic_usage
-translation_of: Web/API/Canvas_API/Tutorial/Basic_usage
 original_slug: Web/HTML/Canvas/Tutorial/Basic_usage
 ---
 
@@ -145,6 +144,6 @@ if (canvas.getContext){
 
 이 예제는 다음과 같습니다.
 
-{{EmbedLiveSample("A_simple_example", 160, 160, "https://mdn.mozillademos.org/files/228/canvas_ex1.png")}}
+{{EmbedLiveSample("A_simple_example", 160, 160, "canvas_ex1.png")}}
 
 {{PreviousNext("Web/API/Canvas_API/Tutorial", "Web/API/Canvas_API/Tutorial/Drawing_shapes")}}
